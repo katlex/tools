@@ -1,0 +1,13 @@
+[app]
+  version: 0.1-SNAPSHOT
+  org: com.katlex
+  name: tools_2.10
+  class: Fibo
+  cross-versioned: false
+[scala]
+  version: 2.10.0
+[repositories]
+  local
+  scala-tools-releases
+  maven-central
+  katlex: http://katlex.com/maven2/
